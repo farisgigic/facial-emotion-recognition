@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📘 Facial Emotion Recognition Using Classical Machine Learning
 *A lightweight, interpretable, and resource-efficient approach to emotion classification.*
 
